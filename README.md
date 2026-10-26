@@ -1,5 +1,7 @@
 # AI-Powered WhatsApp Flight Booking Assistant
 
+<img src="assets/ticket_bot_graph.png" width="100%" alt="Flight recommendations in Persian">
+
 An AI-powered WhatsApp assistant designed to automate flight inquiries and reduce the workload of customer support teams for a travel agency.
 
 ## Business Impact
