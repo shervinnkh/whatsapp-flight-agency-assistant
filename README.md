@@ -47,19 +47,19 @@ As inquiry volume increases, agencies may need additional staff or spend more ti
 
 ### 1. Flight Recommendations in Persian
 
-![Flight recommendations in Persian](assets/persian-flight-recommendations.png)
+<img src="assets/persian-flight-recommendations.png" width="400" alt="Flight recommendations in Persian">
 
 ### 2. Arabic Flight Inquiry
 
-![Arabic flight recommendations](assets/arabic-flight-recommendations.png)
+<img src="assets/arabic-flight-recommendations.png" width="400" alt="Flight recommendations in Persian">
 
 ### 3. Daily Flight Price Comparison
 
-![Daily flight prices](assets/daily-flight-prices.png)
+<img src="assets/daily-flight-prices.png" width="400" alt="Flight recommendations in Persian">
 
 ### 4. Voice Message Interaction
 
-![Voice message interaction](assets/voice-message-demo.png)
+<img src="assets/voice-message-demo.png" width="400" alt="Flight recommendations in Persian">
 
 ## How It Works
 
